@@ -4,6 +4,8 @@ A simple React web application that fetches and displays random quotes.
 
 ## Demo
 [Demo](https://quote-generator-kappa-six.vercel.app/)
+
+
 ![Demo Image](./src/img/snippet.png)
 ## Features
 
