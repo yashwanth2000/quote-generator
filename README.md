@@ -19,7 +19,6 @@ A simple React web application that fetches and displays random quotes.
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/random-quote-generator.git
 
 2. Navigate to the project directory:
     cd random-quote-generator
